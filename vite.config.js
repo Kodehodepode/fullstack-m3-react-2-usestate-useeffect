@@ -11,6 +11,7 @@ export default defineConfig({
       },
     })
   ],
+  base: '/fullstack-m3-react-2-usestate-useeffect/',
   server: {
     watch: {
       usePolling: true,
