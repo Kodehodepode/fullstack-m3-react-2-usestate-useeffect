@@ -2,6 +2,8 @@
 
 Prosjektet bruker Vite + React
 
+[Oppgavetekst](./OPPGAVE.md)
+
 ## CookieClicker
 
 Komponentet importerer styled-components og det lages et element for å wrappe innholdet i komponenten, et for å vise poengene, og et for å klikkes på for å øke poengsummen.
